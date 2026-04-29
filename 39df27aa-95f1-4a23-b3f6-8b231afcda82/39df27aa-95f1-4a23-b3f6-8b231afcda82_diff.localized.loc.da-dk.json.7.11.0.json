@@ -52,7 +52,7 @@
         "TitleLabel": "Titel",
         "PlaceholderLabel": "Indtastningsplads",
         "NoMessagesLabel": "Ingen beskeder",
-        "MessageInputBorderRadiusLabel": "Kantradius"
+        "MessageInputBorderRadiusLabel": "Hjørneradius"
       },
       "ChatResponseMessages": {
         "FirstMessage": "Arbejder på dit svar...",
